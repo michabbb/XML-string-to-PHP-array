@@ -1,7 +1,7 @@
 {
-	"name": "gaarf/xml-to-php-array",
+	"name": "macropage/xml-to-php-array",
 	"description": "XML to PHP array convertor",
-	"homepage": "https://github.com/gaarf/XML-string-to-PHP-array",
+	"homepage": "https://github.com/macropage/XML-string-to-PHP-array",
 	"authors": [
 		{
 			"name": "Adrien Cahen",
