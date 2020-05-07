@@ -11,7 +11,7 @@ Install and simply use
 Use Composer:
 
 ```shell
-composer require gaarf/xml-to-php-array
+composer require macropage/xml-to-php-array
 ```
 
 And then package will be automatically installed to your project and you can simply call:
