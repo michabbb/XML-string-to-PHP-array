@@ -1,3 +1,5 @@
+just a fork of: [gaarf/XML-string-to-PHP-array](https://github.com/gaarf/XML-string-to-PHP-array) - but accessable via https://packagist.org/
+
 XML to PHP array convertor
 ==========================
 
